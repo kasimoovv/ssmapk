@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">SSM</string>
+    <string name="app_name">ssmclient</string>
     <!-- Замените на адрес вашего сайта (с https:// или http://) -->
-    <string name="site_url">http://192.168.0.179:9664</string>
+    <string name="site_url">vortexgo.ru</string>
 </resources>
